@@ -1,6 +1,9 @@
 ## Hai I'm KrishnaMohan :pray:
+###### Full Stack Developer
 ### Imagination is more Important than Knowledge :brain:
- - I am Full Stack Developer With Java and Python
+ - Programming Languages  : Python,Java,C.
+ - Front-End Technologies : Html,Css,JavaScript.
+ - Frame work : Spring,Spring-Boot,Django.
 <!--
 **krishnamohan-code/krishnamohan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

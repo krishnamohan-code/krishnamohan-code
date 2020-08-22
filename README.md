@@ -1,5 +1,5 @@
 ### Hai I'm KrishnaMohan :pray:
-#### * I am Full Stack Developer With Java and Python
+#### *-* I am Full Stack Developer With Java and Python
 
 <!--
 **krishnamohan-code/krishnamohan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

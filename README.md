@@ -1,6 +1,6 @@
 ## Hai I'm KrishnaMohan :pray:
 #### Full Stack Developer
-<--### Imagination is more Important than Knowledge :brain: -->
+<!-- ### Imagination is more Important than Knowledge :brain: -->
  - Programming Languages  : Python,Java,C.
  - Front-End Technologies : Html,Css,JavaScript.
  - Frame work : Spring,Spring-Boot,Django

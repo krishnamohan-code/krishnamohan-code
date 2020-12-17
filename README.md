@@ -1,4 +1,4 @@
-## Hai I'm KrishnaMohan :pray:
+## Hai I'm KrishnaMohan :wave:
 #### Full Stack Developer
 <!-- ### Imagination is more Important than Knowledge :brain: -->
  - Programming Languages  : Python,Java,C

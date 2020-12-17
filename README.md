@@ -2,12 +2,7 @@
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif" width='200px'>
 <h1> I'am KrishnaMohan </h1>
 </div>
-#### Full Stack Developer
 <!-- ### Imagination is more Important than Knowledge :brain: -->
- - Programming Languages  : Python,Java,C
- - Front-End Technologies : Html,Css,JavaScript
- - Frameworks : AngularJs,Spring,Spring-Boot,Django
- ##### 📫 How to reach me: krishnamohan.pyneni@yahoo.com
 <!--
 **krishnamohan-code/krishnamohan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 <div >
- <h1><img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif" width="25px">
+ <h1><img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif" width="50px">
  I'am KrishnaMohan </h1>
 </div>
 #### Full Stack Developer

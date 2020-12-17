@@ -1,4 +1,7 @@
-## Hai I'm KrishnaMohan :wave:
+<div >
+ <h1><img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif" width="25px">
+ I'am KrishnaMohan </h1>
+</div>
 #### Full Stack Developer
 <!-- ### Imagination is more Important than Knowledge :brain: -->
  - Programming Languages  : Python,Java,C

@@ -13,7 +13,7 @@
  <div >
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150px">
-<img src="./assets/angular.svg" height="75px">
+<img src="./assets/angular.svg" height="75px" width="150px">
 <img src="./assets/html-5.svg" height="70px">
 <img src="./assets/css3.svg" height="75px">
 <img src="./assets/bootstrap-icon.svg" height="75px">

@@ -1,6 +1,6 @@
-<div align='center'>
+<div align='center' background="black">
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif" width='200px'>
-<h1> I'am KrishnaMohan </h1>
+ <h1> I'am KrishnaMohan </h1>
 </div>
 <!-- ### Imagination is more Important than Knowledge :brain: -->
 <!--

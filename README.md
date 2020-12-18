@@ -3,10 +3,10 @@
  <h1 > I'am KrishnaMohan</h1>
  <div align="left">
     <h4>
-    Qualification  : Bachelor of Technology <img src="https://img.icons8.com/emoji/48/000000/graduation-cap-emoji.png"/>
+    Qualification  : Bachelor of Technology <img height="30px" src="https://img.icons8.com/emoji/48/000000/graduation-cap-emoji.png"/>
     </h4>
     <h4>
-      Branch : Electronics And Communicaton Engineering <img height="50px" src="https://img.icons8.com/carbon-copy/100/000000/electronics.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/laptop-coding.png"/>
+      Branch : Electronics And Communicaton Engineering <img height="30px" src="https://img.icons8.com/carbon-copy/100/000000/electronics.png"/> <img height="30px" src="https://img.icons8.com/ios-filled/50/000000/laptop-coding.png"/>
     </h4>
     <h4>Year : 2019</h4>
  </div>

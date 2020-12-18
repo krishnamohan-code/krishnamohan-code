@@ -2,6 +2,9 @@
 .intro{
     background:blue;
 }
+h1{
+    color:yellow;
+}
 </style>
 
 <div align='center' class="intro">

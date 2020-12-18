@@ -2,12 +2,13 @@
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='200px'>
  <h1 > I'am KrishnaMohan</h1>
  <div align="left">
-    <h3>
+    <h4>
     Qualification  : Bachelor of Technology <img src="https://img.icons8.com/emoji/48/000000/graduation-cap-emoji.png"/>
-    </h3>
-    <h3>
+    </h4>
+    <h4>
       Branch : Electronics And Communicaton Engineering <img height="50px" src="https://img.icons8.com/carbon-copy/100/000000/electronics.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/laptop-coding.png"/>
-    </h3>
+    </h4>
+    <h4>Year : 2019</h4>
  </div>
 
 </div>

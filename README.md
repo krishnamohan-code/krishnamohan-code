@@ -1,4 +1,4 @@
-<div align='center' style="background:black">
+<div align='center' style="background:red">
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif" width='200px'>
  <h1> I'am KrishnaMohan </h1>
 </div>

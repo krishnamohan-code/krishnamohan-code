@@ -10,7 +10,8 @@
 </div>
 
  <h1 align="center">:man_technologist: Technologies</h1>
-<!-- <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+ <div >
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150px">
 <img src="./assets/angular.svg" height="75px">
 <img src="./assets/html-5.svg" height="70px">
@@ -19,10 +20,9 @@
 <img src="./assets/javascript.svg" height="75px">
 <img src="./assets/django.svg" height="75px">
 <img src="./assets/mysql-7.svg" height="75px">
-<img src="./assets/oracle-logo.svg" height="75px" width="150px"> -->
+<img src="./assets/oracle-logo.svg" height="75px" width="150px">
+</div>
 
-![Java](./assets/java.svg =20*20)
-<img src="./assets/java.svg" width="48">
 <!-- ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) -->
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) -->

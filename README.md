@@ -18,7 +18,7 @@
      <img src="./assets/css3.svg" height="75px">
      <img src="./assets/bootstrap-icon.svg" height="75px">
      <img src="./assets/javascript.svg" height="75px">
-     <img src="./assets/django.svg" height="75px">
+     <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="75px">
      <img src="./assets/mysql-7.svg" height="75px">
      <img src="./assets/oracle-logo.svg" height="75px" width="150px">
 </div>

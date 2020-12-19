@@ -1,15 +1,12 @@
 <div align='center'>
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
  <h1 style="color:yellow"> I'am KrishnaMohan </h1>
-   <!-- <small>Full Stack Developer</small>
+   <small>Full Stack Developer</small>
  <div align="left">
     <h4>Qualification  : Bachelor of Technology &#127891;</h4>
     <h4>Branch : Electronics And Communicaton Engineering  &#128187;</h4>
     <h4>Year : 2019 &#128197;</h4>
-   </div> -->
-   <p>I am a passionate Engineer with a degree in electronics and communication engineeing.My very first Experience with code was at the time.When I Started my own blog .My struggle to customize the blog pages introduced me to html and css.Sooner the excitment of having the power to structure pages on my own sounded amazing and thats when I decided to praise web development.
-Recently, I have taken up a Full Stack Development Program with FACE.Rational thought process and goal-oriented planning are my strenghts.
-I am currently on the look out for a challenging role to build products that make a difference.</p>
+   </div>
 </div>
 
  <h1 align="center">:man_technologist: Technologies</h1>
@@ -25,7 +22,9 @@ I am currently on the look out for a challenging role to build products that mak
      <img src="./assets/mysql-7.svg" height="75px">
      <img src="./assets/oracle-logo.svg" height="75px" width="150px">
 </div>
-
+  <div>
+    <h1>:link:Reach me</h1>
+  </div>
 <!-- ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) -->
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) -->

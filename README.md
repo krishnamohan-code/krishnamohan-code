@@ -1,5 +1,5 @@
 <div align='center'>
- <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='200px'>
+ <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='120px' height="100px">
  <h1 style="color:yellow"> I'am KrishnaMohan </h1>
  
  <div align="left">
@@ -10,17 +10,17 @@
 </div>
 
  <h1 align="center">:man_technologist: Technologies</h1>
- <div  >
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150px">
-<img src="./assets/angular.svg" height="75px" width="170px">
-<img src="./assets/html-5.svg" height="70px">
-<img src="./assets/css3.svg" height="75px">
-<img src="./assets/bootstrap-icon.svg" height="75px">
-<img src="./assets/javascript.svg" height="75px">
-<img src="./assets/django.svg" height="75px">
-<img src="./assets/mysql-7.svg" height="75px">
-<img src="./assets/oracle-logo.svg" height="75px" width="150px">
+ <div align="center">
+     <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+     <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150px">
+     <img src="./assets/angular.svg" height="75px" width="170px">
+     <img src="./assets/html-5.svg" height="70px">
+     <img src="./assets/css3.svg" height="75px">
+     <img src="./assets/bootstrap-icon.svg" height="75px">
+     <img src="./assets/javascript.svg" height="75px">
+     <img src="./assets/django.svg" height="75px">
+     <img src="./assets/mysql-7.svg" height="75px">
+     <img src="./assets/oracle-logo.svg" height="75px" width="150px">
 </div>
 
 <!-- ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white) -->

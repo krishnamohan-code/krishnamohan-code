@@ -1,7 +1,7 @@
 
 <div align='center'>
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
- <h1 > I'am KrishnaMohan <hr width="270px">
+ <h1 > I'am KrishnaMohan <hr width="270px" height="0.05px">
  <div>
    
    ###### Full Stack Developer
@@ -22,14 +22,14 @@
      <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150px">
      <img src="./assets/technologies/c-programming.svg" height="50px" >
      <img src="./assets/technologies/angular.svg"  width="170px">
-     <img src="./assets/technologies/html-5.svg" height="70px">
-     <img src="./assets/technologies/css3.svg" height="75px">
-     <img src="./assets/technologies/bootstrap-icon.svg" height="75px">
-     <img src="./assets/technologies/javascript.svg" height="75px">
-      <img src="./assets/technologies/spring.svg" height="75">
-     <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="50px" width="120px">
-     <img src="./assets/technologies/mysql-7.svg" height="75px">
-     <img src="./assets/technologies/oracle-logo.svg" height="50px" width="150px">
+     <img src="./assets/technologies/html-5.svg" height="50px">
+     <img src="./assets/technologies/css3.svg" height="55px">
+     <img src="./assets/technologies/javascript.svg" height="52px">
+     <img src="./assets/technologies/bootstrap-icon.svg" height="45px">
+     <img src="./assets/technologies/spring.svg" height="45">
+     <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="50px" width="100px">
+     <img src="./assets/technologies/mysql-7.svg" height="50px">
+     <img src="./assets/technologies/oracle-logo.svg" height="40px" width="100px">
      <img src="./assets/technologies/github.svg" height="50px">
 </div>
  <br>

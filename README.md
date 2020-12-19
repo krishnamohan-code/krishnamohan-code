@@ -1,6 +1,6 @@
 <div align='center'>
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
- <h1 style="color:yellow"> I'am KrishnaMohan <small style="font-size:10px">Full Stack Developer</small> </h1>
+ <h1 > I'am KrishnaMohan <font size="0.01">Full Stack Developer</font> </h1>
  <div align="left">
     <h4>Qualification  : Bachelor of Technology &#127891;</h4>
     <h4>Branch : Electronics And Communicaton Engineering  &#128187;</h4>
@@ -24,8 +24,8 @@
       <img src="./assets/technologies/spring.svg" height="75">
      <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="50px" width="120px">
      <img src="./assets/technologies/mysql-7.svg" height="75px">
-     <img src="./assets/technologies/oracle-logo.svg" height="75px" width="150px">
-     <img src="./assets/technologies/github.svg" height="75">
+     <img src="./assets/technologies/oracle-logo.svg" height="50px" width="150px">
+     <img src="./assets/technologies/github.svg" height="50px">
 </div>
   <div align="center">
     <h1 align="center">:link:Connect </h1>

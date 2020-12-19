@@ -8,9 +8,7 @@
     
    </div>
 </div>
-
-
-
+<br>
  <h1 align="center">:man_technologist: Technologies</h1>
  <div align="center">
      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
@@ -27,6 +25,7 @@
      <img src="./assets/technologies/oracle-logo.svg" height="50px" width="150px">
      <img src="./assets/technologies/github.svg" height="50px">
 </div>
+ <br>
   <div align="center">
     <h1 align="center">:link:Connect </h1>
      <a href="https://www.linkedin.com/in/krishnamohan-pyneni-651640198/" target="_blank"><img src="./assets/social/linkedin.svg" width="40px"></a>

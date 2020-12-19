@@ -1,8 +1,9 @@
+
 <div align='center'>
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
- <h1 > I'am KrishnaMohan <font size="0.01">Full Stack Developer</font> </h1>
+ <h1 > I'am KrishnaMohan <div>#####fullssd</div></h1>
  <div align="left">
-    <h4>Qualification  : Bachelor of Technology &#127891;</h4>
+    <h4 >Qualification  : Bachelor of Technology &#127891;</h4>
     <h4>Branch : Electronics And Communicaton Engineering  &#128187;</h4>
     <h4>Year : 2019 &#128197;</h4>
      <h4>Mail : krishnamohan.pyneni@yahoo.com  :e-mail:</h4>

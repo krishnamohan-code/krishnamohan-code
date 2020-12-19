@@ -1,7 +1,7 @@
 
 <div align='center'>
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
- <h1 > I'am KrishnaMohan
+ <h1 > I'am KrishnaMohan <hr width="270px">
  <div>
    
    ###### Full Stack Developer

@@ -1,19 +1,18 @@
 
 <div align='center'>
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
- <h1 > I'am KrishnaMohan <hr width="270px" height="0.05px">
- <div>
-   
-   ###### Full Stack Developer
-  </div>
- 
- </h1>
- <div align="left">
-    <h4 >Qualification  : Bachelor of Technology &#127891;</h4>
-    <h4>Branch : Electronics And Communicaton Engineering  &#128187;</h4>
-    <h4>Year : 2019 &#128197;</h4>
-     <h4>Mail : krishnamohan.pyneni@yahoo.com  :e-mail:</h4>
-   </div>
+ <h1 > I'am KrishnaMohan <hr width="270px" height="0px">
+    <div>
+      <!-- ###### Full Stack Developer -->
+      <h6>Full Stack Developer</h6>
+    </div>
+  </h1>
+    <div align="left">
+      <h4 >Qualification  : Bachelor of Technology &#127891;</h4>
+      <h4>Branch : Electronics And Communicaton Engineering  &#128187;</h4>
+      <h4>Year : 2019 &#128197;</h4>
+      <h4>Mail : krishnamohan.pyneni@yahoo.com  :e-mail:</h4>
+    </div>
 </div>
 <br>
  <h1 align="center">:man_technologist: Technologies</h1>

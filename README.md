@@ -1,5 +1,5 @@
 <div align='center'>
- <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='120px' height="150px">
+ <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
  <h1 style="color:yellow"> I'am KrishnaMohan </h1>
  
  <div align="left">

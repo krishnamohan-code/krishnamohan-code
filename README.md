@@ -6,9 +6,10 @@
     <h4>Branch : Electronics And Communicaton Engineering  &#128187;</h4>
     <h4>Year : 2019 &#128197;</h4>
     <h4>I am Full Stack Developer</h4>
-    #How to reach me: :mail:
    </div>
 </div>
+
+
 
  <h1 align="center">:man_technologist: Technologies</h1>
  <div align="center">

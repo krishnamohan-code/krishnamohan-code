@@ -23,11 +23,11 @@
      <img src="./assets/technologies/mysql-7.svg" height="75px">
      <img src="./assets/technologies/oracle-logo.svg" height="75px" width="150px">
 </div>
-  <div>
+  <div align="center">
     <h1 align="center">:link:How to reach me</h1>
-     <a href="https://www.instagram.com/krishnamohan0/" target="_blank"><img src="./assets/social/instagram.svg" width="40px"></a>
      <a href="https://www.linkedin.com/in/krishnamohan-pyneni-651640198/" target="_blank"><img src="./assets/social/linkedin.svg" width="40px"></a>
      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBnpqWjCKCnWkKvMPBvlWkhhQvfdJQSqCLRJJCPVkdQZfRqvhdtdnNmKKqgZkGtFkwGdzdL" target="_blank"><img src="./assets/social/mail.svg" width="40px"></a>
+     <a href="https://www.instagram.com/krishnamohan0/" target="_blank"><img src="./assets/social/instagram.svg" width="40px"></a>
   </div>
 <!-- ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) -->

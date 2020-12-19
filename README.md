@@ -1,11 +1,12 @@
 <div align='center'>
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
  <h1 style="color:yellow"> I'am KrishnaMohan </h1>
-   <small>Full Stack Developer</small>
  <div align="left">
     <h4>Qualification  : Bachelor of Technology &#127891;</h4>
     <h4>Branch : Electronics And Communicaton Engineering  &#128187;</h4>
     <h4>Year : 2019 &#128197;</h4>
+    <h4>I am Full Stack Developer</h4>
+    #How to reach me: :mail:
    </div>
 </div>
 
@@ -19,14 +20,15 @@
      <img src="./assets/technologies/css3.svg" height="75px">
      <img src="./assets/technologies/bootstrap-icon.svg" height="75px">
      <img src="./assets/technologies/javascript.svg" height="75px">
+      <img src="./assets/technologies/spring.svg" height="75">
      <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="50px" width="120px">
      <img src="./assets/technologies/mysql-7.svg" height="75px">
      <img src="./assets/technologies/oracle-logo.svg" height="75px" width="150px">
+     <img src="./assets/technologies/github.svg" height="75">
 </div>
   <div align="center">
-    <h1 align="center">:link:How to reach me</h1>
+    <h1 align="center">:link:Connect </h1>
      <a href="https://www.linkedin.com/in/krishnamohan-pyneni-651640198/" target="_blank"><img src="./assets/social/linkedin.svg" width="40px"></a>
-     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBnpqWjCKCnWkKvMPBvlWkhhQvfdJQSqCLRJJCPVkdQZfRqvhdtdnNmKKqgZkGtFkwGdzdL" target="_blank"><img src="./assets/social/mail.svg" width="40px"></a>
      <a href="https://www.instagram.com/krishnamohan0/" target="_blank"><img src="./assets/social/instagram.svg" width="40px"></a>
   </div>
 <!-- ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white) -->

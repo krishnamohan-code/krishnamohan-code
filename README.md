@@ -1,12 +1,12 @@
 <div align='center'>
- <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='120px' height="100px">
+ <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='120px' height="120px">
  <h1 style="color:yellow"> I'am KrishnaMohan </h1>
  
  <div align="left">
     <h4>Qualification  : Bachelor of Technology &#127891;</h4>
     <h4>Branch : Electronics And Communicaton Engineering  &#128187;</h4>
     <h4>Year : 2019 &#128197;</h4>
-    🌱 I’m currently learning :Data Structures
+    
  </div>
 </div>
 

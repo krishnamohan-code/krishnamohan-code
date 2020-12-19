@@ -13,17 +13,19 @@
  <div align="center">
      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
      <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150px">
-     <img src="./assets/angular.svg" height="75px" width="170px">
-     <img src="./assets/html-5.svg" height="70px">
-     <img src="./assets/css3.svg" height="75px">
-     <img src="./assets/bootstrap-icon.svg" height="75px">
-     <img src="./assets/javascript.svg" height="75px">
+     <img src="./assets/technologies/c-programming.svg" height="50px" >
+     <img src="./assets/technologies/angular.svg"  width="170px">
+     <img src="./assets/technologies/html-5.svg" height="70px">
+     <img src="./assets/technologies/css3.svg" height="75px">
+     <img src="./assets/technologies/bootstrap-icon.svg" height="75px">
+     <img src="./assets/technologies/javascript.svg" height="75px">
      <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="50px" width="120px">
-     <img src="./assets/mysql-7.svg" height="75px">
-     <img src="./assets/oracle-logo.svg" height="75px" width="150px">
+     <img src="./assets/technologies/mysql-7.svg" height="75px">
+     <img src="./assets/technologies/oracle-logo.svg" height="75px" width="150px">
 </div>
   <div>
-    <h1>:link:Reach me</h1>
+    <h1 align="center">:link:How to reach me</h1>
+     <a href="https://www.instagram.com/krishnamohan0/"><img src="./assets/social/instagram.svg" width="40px"></a>
   </div>
 <!-- ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) -->

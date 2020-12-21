@@ -32,7 +32,7 @@
 </div>
  <br>
   <div align="center">
-    <h1 align="center">:link:Connect </h1>
+    <h1 align="center"><img src="./assets/social-media.png">Connect </h1>
      <a href="https://www.linkedin.com/in/krishnamohan-pyneni-651640198/" target="_blank"><img src="./assets/social/linkedin.svg" width="40px"></a>
      <a href="https://www.instagram.com/krishnamohan0/" target="_blank"><img src="./assets/social/instagram.svg" width="40px"></a>
   </div>

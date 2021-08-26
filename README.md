@@ -36,6 +36,7 @@
      <img src="./assets/technologies/github.svg" height="50px">
 </div>
  <br>
+ <h1>Experience</h1>
   <table align="center">
   <thead align="center">
     <tr border: none;>

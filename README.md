@@ -7,7 +7,7 @@
       <h6 >Full Stack Developer</h6>
     </div>
   </h1>
-    <div align="left">
+    <div align="center">
       <h4 >Qualification  : Bachelor of Technology &#127891;</h4>
       <h4>Branch : Electronics And Communicaton Engineering  &#128187;</h4>
       <h4>Year : 2019 &#128197;</h4>

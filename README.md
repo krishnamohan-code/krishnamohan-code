@@ -36,7 +36,7 @@
      <img src="./assets/technologies/github.svg" height="50px">
 </div>
  <br>
-  <table>
+  <table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>Designation</b></td>

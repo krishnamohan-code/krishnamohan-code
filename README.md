@@ -1,4 +1,5 @@
 
+
 <div align='center'>
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
  <h1 > I'am KrishnaMohan <hr width="270px" height="0px">
@@ -16,6 +17,10 @@
 <br>
  <h1 align="center">:man_technologist: Technologies</h1>
  <div align="center">
+          <lottie-player src="https://assets5.lottiefiles.com/packages/lf20_zh6xtlj9.json"  
+             background="transparent"  speed="1"  style="width: 100%;"  loop autoplay mode="normal" > 
+          </lottie-player>
+      <img src="https://lottiefiles.com/43227-md-mahad">
      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
      <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150px">
      <img src="./assets/technologies/c-programming.svg" height="50px" >
@@ -31,6 +36,11 @@
      <img src="./assets/technologies/github.svg" height="50px">
 </div>
  <br>
+      <h1>Experience</h1>
+      | Role          | Company       |    From     | To |
+      | ------------- | ------------- |-------------|----|
+      | Graduate Engineer Trainee  | HCL  | Jan 2021| Current|
+      | Web Developer  | Disenosys  |July 2020 | Dec 2020|
   <div align="center">
     <h1 align="center"><img src="./assets/social-media.png">Connect </h1>
      <a href="https://www.linkedin.com/in/krishnamohan-pyneni-651640198/" target="_blank"><img src="./assets/social/linkedin.svg" width="40px"></a>

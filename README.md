@@ -36,11 +36,33 @@
      <img src="./assets/technologies/github.svg" height="50px">
 </div>
  <br>
-      <h1>Experience</h1>
-      | Role          | Company       |    From     | To |
-      | ------------- | ------------- |-------------|----|
-      | Graduate Engineer Trainee  | HCL  | Jan 2021| Current|
-      | Web Developer  | Disenosys  |July 2020 | Dec 2020|
+  <table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Designation</b></td>
+      <td><b>Company</b></td>
+      <td><b>From</b></td>
+      <td><b>To</b></td>
+      <!-- <td><b>Duration</b></td> -->
+    </tr>
+  </thead>
+  <tbody>
+	  <tr>
+	    <td><b>Graguate Engineer Trainee</b></td>
+      <td><a href="https://www.hcltech.com/">HCL</a></td>
+      <td>Jan 2021</td>
+      <td>Current</td>
+      <!-- <td>-</td> -->
+    </tr>
+  <tr>
+	    <td><b>Web Developer</b></td>
+      <td><a href="https://disenosys.com/">Disenosys</a></td>
+      <td>July 2020</td>
+      <td>Dec 2020</td>
+      <!-- <td>7 Months</td> -->
+    </tr>
+     </tbody>
+  </table>
   <div align="center">
     <h1 align="center"><img src="./assets/social-media.png">Connect </h1>
      <a href="https://www.linkedin.com/in/krishnamohan-pyneni-651640198/" target="_blank"><img src="./assets/social/linkedin.svg" width="40px"></a>

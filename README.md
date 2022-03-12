@@ -20,7 +20,7 @@
           <lottie-player src="https://assets5.lottiefiles.com/packages/lf20_zh6xtlj9.json"  
              background="transparent"  speed="1"  style="width: 100%;"  loop autoplay mode="normal" > 
           </lottie-player>
-      <img src="https://lottiefiles.com/43227-md-mahad">
+     <!-- <img src="https://lottiefiles.com/43227-md-mahad"> -->
      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
      <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150px">
      <img src="./assets/technologies/c-programming.svg" height="50px" >
@@ -51,14 +51,14 @@
 	  <tr>
 	    <td><b>Graguate Engineer Trainee</b></td>
       <td><a href="https://www.hcltech.com/">HCL</a></td>
-      <td>Jan 2021</td>
+      <td>January 2021</td>
       <td>Current</td>
       <!-- <td>-</td> -->
     </tr>
   <tr>
 	    <td><b>Web Developer</b></td>
       <td><a href="https://disenosys.com/">Disenosys</a></td>
-      <td>July 2020</td>
+      <td>January 2020</td>
       <td>Dec 2020</td>
       <!-- <td>7 Months</td> -->
     </tr>

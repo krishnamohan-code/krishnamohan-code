@@ -64,7 +64,7 @@
 	    <td><b>Graguate Engineer Trainee</b></td>
       <td><a href="https://www.hcltech.com/">HCL</a></td>
       <td>January 2021</td>
-      <td>Current</td>
+      <td>May 2022</td>
     </tr>
   <tr>
 	    <td><b>Web Developer</b></td>

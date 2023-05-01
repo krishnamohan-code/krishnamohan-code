@@ -51,14 +51,14 @@
   <tr>
 	    <td><b>Software Engineer</b></td>
       <td><a href="https://www.opentext.com/">OpenText</a></td>
-      <td>21st Feb 2023</td>
+      <td>Feb 2023</td>
       <td>Current</td>
     </tr>
   <tr>
 	    <td><b>Analyst</b></td>
       <td><a href="https://www.hcltech.com/">HCL</a></td>
       <td>May 2022</td>
-      <td>20th Feb 2023</td>
+      <td>Feb 2023</td>
     </tr>
 	  <tr>
 	    <td><b>Graguate Engineer Trainee</b></td>
@@ -78,7 +78,7 @@
   <div align="center">
     <h1 align="center"><img src="./assets/social-media.png">Connect </h1>
      <a href="https://www.linkedin.com/in/krishnamohan-pyneni-651640198/" target="_blank"><img src="./assets/social/linkedin.svg" width="40px"></a>
-     <a href="https://www.instagram.com/krishnamohan0/" target="_blank"><img src="./assets/social/instagram.svg" width="40px"></a>
+     <!-- <a href="https://www.instagram.com/krishnamohan0/" target="_blank"><img src="./assets/social/instagram.svg" width="40px"></a> -->
   </div>
 <!-- ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) -->

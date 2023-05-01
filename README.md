@@ -4,7 +4,7 @@
  <img src="https://media.giphy.com/media/L61vTRWxdKA8KeMyS2/giphy.gif"  width='130px' height="120px">
  <h1 > I'am KrishnaMohan <hr width="270px" height="0px">
     <div>
-      <h6 >Full Stack Developer</h6>
+      <h6 >ServiceNow Developer | Full Stack Developer</h6>
     </div>
   </h1>
     <div align="center">

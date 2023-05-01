@@ -50,7 +50,7 @@
   <tbody>
   <tr>
 	    <td><b>Software Engineer</b></td>
-      <td><a href="https://www.opentext.com/">HCL</a></td>
+      <td><a href="https://www.opentext.com/">OpenText</a></td>
       <td>21st Feb 2023</td>
       <td>Current</td>
     </tr>

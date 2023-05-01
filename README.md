@@ -48,12 +48,17 @@
     </tr>
   </thead>
   <tbody>
+  <tr>
+	    <td><b>Analyst</b></td>
+      <td><a href="https://www.hcltech.com/">HCL</a></td>
+      <td>January 2021</td>
+      <td>Current</td>
+    </tr>
 	  <tr>
 	    <td><b>Graguate Engineer Trainee</b></td>
       <td><a href="https://www.hcltech.com/">HCL</a></td>
       <td>January 2021</td>
       <td>Current</td>
-      <!-- <td>-</td> -->
     </tr>
   <tr>
 	    <td><b>Web Developer</b></td>

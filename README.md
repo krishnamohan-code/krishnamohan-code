@@ -49,10 +49,16 @@
   </thead>
   <tbody>
   <tr>
+	    <td><b>Software Engineer</b></td>
+      <td><a href="https://www.opentext.com/">HCL</a></td>
+      <td>21st Feb 2023</td>
+      <td>Current</td>
+    </tr>
+  <tr>
 	    <td><b>Analyst</b></td>
       <td><a href="https://www.hcltech.com/">HCL</a></td>
-      <td>January 2021</td>
-      <td>Current</td>
+      <td>May 2022</td>
+      <td>20th Feb 2023</td>
     </tr>
 	  <tr>
 	    <td><b>Graguate Engineer Trainee</b></td>

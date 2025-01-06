@@ -21,6 +21,7 @@
              background="transparent"  speed="1"  style="width: 100%;"  loop autoplay mode="normal" > 
           </lottie-player>
      <!-- <img src="https://lottiefiles.com/43227-md-mahad"> -->
+     <img src="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/company-library/media/logo/sn-logo-color.png" alt="ServiceNow" srcset="">
      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
      <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150px">
      <img src="./assets/technologies/c-programming.svg" height="50px" >
